@@ -51,7 +51,7 @@ For those who prefer to build it themselves:
 3. Install the package:
 
    ```bash
-   pip install dist/pyscan_tool-*.whl
+   pip install dist/*.whl
    ```
 
 ## Usage
