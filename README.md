@@ -12,6 +12,15 @@
 
 </p>
 
+### Contents
+
+[Features](#features) |
+[Installation](#installation) |
+[Build from scratch](#option-2-build-from-source) |
+[Usage](#usage) |
+[Development](#development) |
+[Contributing](#contributing)
+
 </div>
 
 ## Features
