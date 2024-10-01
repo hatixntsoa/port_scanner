@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pyscan-tool',
-    version='0.1',
+    version='0.1.1',
     description='A CLI tool for network port scanning',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
