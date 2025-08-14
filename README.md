@@ -1,7 +1,7 @@
 # PyScan Tool
 
 <p align="center">
- <img height="150" src="https://raw.githubusercontent.com/h471x/port_scanner/master/imgs/pyscan.png"/>
+ <img height="150" src="https://raw.githubusercontent.com/hatixntsoa/port_scanner/master/imgs/pyscan.png"/>
 </p>
 
 <div align="center">
@@ -47,7 +47,7 @@ For those who prefer to build it themselves:
 1. Clone the repository and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/h471x/port_scanner.git
+   git clone https://github.com/hatixntsoa/port_scanner.git
    cd port_scanner
    ```
 
